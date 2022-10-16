@@ -1,0 +1,464 @@
+/*---------container starts---------*/
+.container{
+	width:1170px;
+	margin:0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+}
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-lg-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+/*---------container ends---------*/
+/*---------header start---------*/
+.header-info{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.logo{
+	background-color:blue;
+	height:100px;
+}
+.logo-header{
+	background-color:blue;
+	height:100px;
+}
+/*---------header ends---------*/
+/*---------banner start---------*/
+.banner{
+	background-color:grey;
+	height:600px;
+	padding-top:150px;
+}
+.banner-content{
+	background-color:white;
+	height:300px;
+	width:500px;
+}
+/*--------banner ends---------*/
+/*---------img start---------*/
+.img{
+	height:400px;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding-top:25px;
+}
+.img-content{
+	background-color:darkorange;
+    height:238px;
+    width:584px;
+    margin-top:60px;
+}
+.photo{
+	background-color:mediumpurple;
+	height:350px;
+	
+}
+/*--------img ends---------*/
+/*----------value start---------*/
+.value{
+	height:500px;
+	padding-top:20px;
+}
+.value-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.value-content{
+	background-color:aqua;
+	height:60px;
+	margin-bottom:20px;
+}
+.value-box{
+	background-color:lightgrey;
+	height:300px;
+	margin-bottom:20px;
+}
+/*--------value ends---------*/
+/*---------number start---------*/
+.numbers{
+	padding-top:60px;
+	padding-bottom:30px;
+}
+.number-content{
+	background-color:skyblue;
+	height:100px;
+}
+/*--------number ends---------*/
+/*---------features start---------*/	
+.features{
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-bottom:20px;
+}
+.features-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:321px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.features-content{
+	background-color:aqua;
+	height:60px;
+	margin-bottom:20px;
+}
+.content{
+	background-color:pink;
+	height:330px;
+}
+.content-diagram{
+	background-color:grey;
+	height:93px;
+	margin-bottom:25px;
+}
+/*--------features ends---------*/
+/*---------computer start---------*/
+.computer-content{
+	background-color:aqua;
+	height:400px;
+    margin-bottom:30px;
+    margin-top:20px;	
+}
+/*--------computer ends---------*/
+/*---------mobile start---------*/
+.mobile-heading{
+	background-color:aqua;
+	height:30px;
+	width:600px;
+	margin-left:252px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.mobile-img{
+	background-color:red;
+	height:300px;
+}
+.mobile-content{
+	background-color:brown;
+	height:86px;
+	margin-bottom:20px;
+}
+/*--------mobile ends---------*/
+/*---------service start---------*/
+.service{
+	padding-top:20px;
+	padding-bottom:10px;
+	margin-bottom:20px;
+}
+.service-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+}
+.service-content{
+	background-color:aqua;
+	height:60px;
+	width:1000px;
+	margin-left:50px;
+	margin-top:20px;
+}
+.service-card{
+	background-color:lightgrey;
+	height:250px;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+/*---------------service ends-------------------*/
+/*---------------pricing start------------------*/
+.price{
+	padding-top:20px;
+}
+.price-heading{
+	background-color:blue;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.price-content{
+	background-color:red;
+	height:60px;
+	margin-bottom:20px;
+}
+.price-box{
+	background-color:lightgrey;
+	height:500px;
+	margin-bottom:20px;
+}
+/*---------------pricing ends-------------------*/
+/*---------------question start----------------*/
+.question-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.question-content{
+	background-color:aqua;
+	height:60px;
+	margin-bottom:20px;
+}
+.question-box{
+	background-color:lightgrey;
+	height:50px;
+	margin-bottom:20px;
+}
+/*---------------question ends-------------------*/
+/*---------------portfolio start----------------*/
+.portfolio{
+	padding-top:20px;
+	padding-bottom:10px;
+	margin-bottom:20px;
+}
+.port-heading{
+	background-color:blue;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+}
+.port-content{
+	background-color:aqua;
+	height:60px;
+	width:1000px;
+	margin-left:50px;
+	margin-top:20px;
+}
+.port-option{
+	background-color:red;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.port-card{
+	background-color:lightgrey;
+	height:200px;
+	margin-bottom:20px;
+}
+/*---------------portfolio ends-------------------*/
+/*---------------test start-----------------------*/
+.test{
+	height:500px;
+	padding-top:20px;
+}
+.test-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.test-content{
+	background-color:aqua;
+	height:60px;
+	margin-bottom:20px;
+}
+.test-box{
+	background-color:lightgrey;
+	height:300px;
+	margin-bottom:20px;
+}
+/*--------test ends---------*/
+/*---------team start---------*/
+.team{
+	padding-top:20px;
+}
+.team-heading{
+	background-color:blue;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.team-content{
+	background-color:red;
+	height:60px;
+	margin-bottom:20px;
+}
+.team-box{
+	background-color:lightgrey;
+	height:400px;
+	margin-bottom:20px;
+}
+/*--------team ends---------*/
+/*---------clients start---------*/
+.client-heading{
+	background-color:blue;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.client-content{
+	background-color:red;
+	height:60px;
+	margin-bottom:20px;
+}
+.client-box{
+	background-color:skyblue;
+	height:100px;
+}
+}
+/*--------clients ends---------*/
+/*---------blog start---------*/
+.blog{
+	background-color:black;
+	height:500px;
+	padding-top:20px;
+}
+.blog-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:280px;
+    margin-top:40px;
+	margin-bottom:20px;
+}
+.blog-content{
+	background-color:aqua;
+	height:60px;
+	margin-bottom:20px;	
+}
+.blog-box{
+	background-color:lightgrey;
+	height:300px;
+	margin-bottom:20px;
+}
+/*--------blog ends---------*/
+/*---------contact start---------*/
+.contact{
+	height:500px;
+	margin-top:20px;
+	padding-top:20px;
+}
+.contact-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:330px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.contact-content{
+	background-color:aqua;
+	height:60px;
+	margin-bottom:20px;	
+}
+.address{
+	background-color:skyblue;
+	height:150px;
+    margin-bottom:20px;
+}
+.call{
+	background-color:skyblue;
+    height:150px;
+}
+.email{
+	background-color:skyblue;
+	height:150px;
+}
+.hours{
+	background-color:skyblue;
+	height:150px;
+}
+.form{
+	background-color:skyblue;
+	height:320px;
+}
+/*--------contact ends---------*/
+/*---------news start---------*/
+.news-heading{
+	background-color:aqua;
+	height:30px;
+	width:500px;
+	margin-left:330px;
+    margin-top:20px;
+	margin-bottom:20px;
+}
+.news-content{
+	background-color:aqua;
+	height:60px;
+	margin-bottom:20px;	
+}
+.news-box{
+	background-color:aqua;
+	height:80px;
+	margin-bottom:20px;	
+}
+/*--------news ends---------*/
+/*---------flex start---------*/
+.flex-start{
+	background-color:grey;
+	height:300px;
+}
+.socialmedia{
+	background-color:grey;
+	height:300px;
+}
+.copyright{
+	background-color:aqua;
+	height:60px;
+}
